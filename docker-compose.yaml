@@ -2,5 +2,5 @@ version: "3"
 
 services:
     attacker:
-        image: srivignesh/ubuntu:large
+        image: busybox
         container_name: attacker
