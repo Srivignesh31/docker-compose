@@ -1,1 +1,6 @@
+version: "3"
 
+services:
+    attacker:
+        image: srivignesh/ubuntu:large
+        container_name: attacker
